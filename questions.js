@@ -27,7 +27,7 @@ questions =  [
     {"id": 25, "question": "The weather community jumps to EF-5 way too much, and the ratings on most high end EF-4's are justified.", "effects": {"inn": -1, "wee": -1}},
     {"id": 26, "question": "The SPC is under using High Risk outlooks, and needs to conisder using High Risk more often.", "effects": {"wee": 1}},
     {"id": 27, "question": "QLCS tornadoes are far more dangerous than supercell tornadoes and deserve a special warning tag because of that.", "effects": {"inn": 1, "wee": 1}},
-    {"id": 28, "question": "Storms with extreme amounts of cloud-to-ground lightning should earn a PDS SVR tag, due to the extreme danger of lightining.", {"inn": 1, "wee": 1}}, 
+    {"id": 28, "question": "Storms with extreme amounts of cloud-to-ground lightning should earn a PDS SVR tag, due to the extreme danger of lightining.", "effects": {"inn": 1, "wee": 1}}, 
     {"id": 29, "question": "Comparing events to April 27th is ok if there is a meterologoical reason to do so.", "effects": {"inn": 1, "wee": 1}},
     {"id": 30, "question": "Those who use their knowledge as an ego are as much of a concearn as a weenie is.", "effects": {"wee": -1}},
     {"id": 31, "question": "The SPC should use Pracitcally Perfect Hindcasts as a way to gauge self-performence.", "effects": {"inn": 1}},
