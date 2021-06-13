@@ -3,7 +3,7 @@ questions =  [
     {"id": 1, "question": "In most cases STP is a good way to evaulate tornado potenital.", "effects": {"wee": 1, "inn": 2}},
     {"id": 2, "question": "The NWS should consider using DOW data when rating tornadoes.", "effects": {"inn": 1}},
     {"id": 3, "question": "The NWS is doing a poor job with issuing tornado warnings.", "effects": {"inn": 1, "wee": 1}},
-    {"id": 4, "question": "The SPC should issue PDS Severe Tunderstorm watches with every event that could produce widespread 80mph gusts or widespedad 3 inch hail.", {"inn": 1, "wee": 1}},
+    {"id": 4, "question": "The SPC should issue PDS Severe Tunderstorm watches with every event that could produce widespread 80mph gusts or widespedad 3 inch hail.", "effects": {"inn": 1, "wee": 1}},
     {"id": 5, "question": "The National Weather Service needs more funding.", "effects": {"inn": 1}},
     {"id": 6, "question": "April 12th, 2020 deserved to be categorized as high risk.", "effects": {"wee": 1}},
     {"id": 7, "question": "El Reno was EF5 but didn't cause EF5 damage.", "effects": {"wee": 1}},
