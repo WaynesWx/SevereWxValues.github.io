@@ -25,4 +25,16 @@ questions =  [
     {"id": 23, "question": "Jarrel was likely only borderline EF-4 and was far overrated because of extreme slow movement of 5 mph", "effects": {"inn": -1, "wee": 1}},
     {"id": 24, "question": "El Reno-Piedmont 2011 was likely more intense than El Reno 2013 was", "effects": {"inn": -1.5, "wee": -.6}},
     {"id": 25, "question": "The weather community jumps to EF-5 way too much, and the ratings on most high end EF-4's are justified", "effects": {"inn": -1, "wee": -1}},
+    {"id": 26, "question": "The SPC is under using High Risk outlooks, and needs to conisder using High Risk more often", "effects": {"wee": 1}},
+    {"id": 27, "question": "QLCS tornadoes are far more dangerous than supercell tornadoes and deserve a special warning tag because of that", "effects": {"inn": 1, "wee": .4}},
+    {"id": 28, "question": "Storms with extreme amounts of cloud-to-ground lightning should earn a PDS SVR tag, due to the extreme danger of lightining", {"inn": 1, "wee": 1}}, 
+    {"id": 29, "question": "Comparing events to April 27th is ok if there is a meterologoical reason to do so", "effects": {"inn": .65, "wee": .9}},
+    {"id": 30, "question": "Those who use their knowledge as an ego are as much of a concearn as a weenie is", "effects": {"wee": -1}},
+    {"id": 31, "question": "The SPC should use Pracitcally Perfect Hindcasts as a way to gauge self-performence", "effects": {"inn": 1.1}},
+    {"id": 32, "question": "La Nina and El Nino trends are overused when looking at trends for severe events", "effects": {"inn": -1}},
+    {"id": 33, "question": "The lead time on tornado warnings currently is unacceptable and should be a top priorty to improve upon", "effects": {"inn": 1}},
+    {"id": 34, "question": "Custom outlooks forecasting severe weather should be kept in private and the only people who should post forecasts in public are mets", "effects": {"inn": -1.5, "wee": -.3}},
+    {"id": 35, "question": "March 25th, 2021 had the potential to produce 50+ tornadoes and 5+ violents if the event would have peformed better on the western half of the 13z High Risk", "effects": {"inn": .5, "wee": -.5}},
+        
+        
 ];
