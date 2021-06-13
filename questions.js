@@ -34,5 +34,5 @@ questions =  [
     {"id": 32, "question": "La Nina and El Nino trends are overused when looking at trends for severe events.", "effects": {"inn": -1}},
     {"id": 33, "question": "The lead time on tornado warnings currently is unacceptable and should be a top priorty to improve upon.", "effects": {"inn": 1}},
     {"id": 34, "question": "Custom outlooks forecasting severe weather should be kept in private and the only people who should post forecasts in public are mets.", "effects": {"inn": -1, "wee": -1}},
-    {"id": 35, "question": "March 25th, 2021 had the potential to produce 50+ tornadoes and 5+ violents if the event would have peformed better on the western half of the 13z High Risk.", "effects": {"inn": 1, "wee": -1}},             
+    {"id": 35, "question": "March 25th, 2021 had the potential to produce 50+ tornadoes and 5+ violents if the event would have peformed better on the western half of the 13z High Risk.", "effects": {"inn": 1, "wee": -1}}            
 ];
